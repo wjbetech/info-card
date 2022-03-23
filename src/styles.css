@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-size: 0.95rem;
+}
+
+body {
+  background-color: rgb(54, 54, 54);
+}
+
+.container {
+  margin-top: 150px;
+  margin-left: 250px;
+}
+
+.card {
+  padding: 2px 2px;
+  width: 18.5rem;
+  color: white;
+  background-color: rgb(37, 37, 37);
+}
+
+.card-title {
+  font-size: 18px;
+}
+
+.card-body {
+  font-weight: 300;
+}
+
+.infotext {
+  color: rgb(201, 121, 46);
+  font-size: 0.95rem;
+}
+
+.infotext2 {
+  color: rgb(163, 163, 163);
+}
+
+.btn {
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.contact {
+  margin-right: 5px;
+}
+
+#about {
+  text-align: start;
+}
+
+.about-text {
+  color: rgb(184, 184, 184);
+  font-size: 0.8rem;
+}
+
+.socials {
+  border: 2px solid grey;
+  border-radius: 1.5em;
+}
+
+.socials:hover {
+  border: 2px solid transparent;
+  background-color: rgba(155, 155, 155, 0.411);
+}
